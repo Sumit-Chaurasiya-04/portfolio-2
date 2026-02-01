@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <span className="text-2xl font-bold tracking-tighter text-gradient">Sumit Chaurasiya</span>
-            <p className="text-gray-500 text-sm mt-2">Data Analyst | Developer | Professional Tutor</p>
+            <p className="text-gray-500 text-sm mt-2">Data Analyst | Developer</p>
           </div>
           
           <div className="flex space-x-6 text-gray-500 text-sm">
