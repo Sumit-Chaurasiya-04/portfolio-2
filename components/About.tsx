@@ -32,7 +32,7 @@ const About: React.FC = () => {
             </p>
             
             <p className="text-gray-400 text-lg mb-8 leading-relaxed">
-              Beyond analytics, I am a passionate Web Developer and Educator. Having mentored over 800 students, I possess a unique ability to communicate technical concepts clearly and build tools that solve real-world problems.
+              Beyond analytics, I am a passionate Web Developer. I possess a unique ability to communicate technical concepts clearly and build tools that solve real-world problems.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">

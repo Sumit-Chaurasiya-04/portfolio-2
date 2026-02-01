@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 
-const roles = ["Data Analyst", "Web Developer", "Professional Tutor"];
+const roles = ["Data Analyst", "Web Developer"];
 
 const Hero: React.FC = () => {
   const [roleIndex, setRoleIndex] = useState(0);
