@@ -26,7 +26,7 @@ const Contact: React.FC = () => {
           <div>
             <h2 className="text-3xl md:text-5xl font-bold mb-8 tracking-tight">Let's <span className="text-gradient">Connect</span></h2>
             <p className="text-gray-400 text-lg mb-12 leading-relaxed">
-              Have a project in mind, need data consulting, or looking for tutoring? Reach out and let's discuss how we can work together.
+              Have a project in mind, need data consulting or roadmap? Reach out and let's discuss how we can work together.
             </p>
 
             <div className="space-y-8">
